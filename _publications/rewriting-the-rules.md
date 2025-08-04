@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/rewriting-the-rules
 excerpt: '**Abstract:** Public company boards of directors have opened up a new front in their longstanding battle with hedge fund activists by rewriting the procedural rules governing board elections. ...'
 date: 2025-06-01
-venue: 'NYU Law Review'
+venue: '100 NYU Law Review 635'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://ben-bates.github.io/files/100-NYU-L-Rev-635.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
