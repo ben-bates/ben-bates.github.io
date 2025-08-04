@@ -2,7 +2,7 @@
 title: "Rewriting the Rules for Corporate Elections"
 collection: publications
 category: manuscripts
-permalink: /publication/rewriting-the-rules
+permalink: /publications/rewriting-the-rules
 excerpt: 'Public company boards of directors have opened up a new front in their longstanding battle with hedge fund activists by rewriting the procedural rules governing board elections. ...'
 date: 2025-06-01
 venue: 'NYU Law Review'
