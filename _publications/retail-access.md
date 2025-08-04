@@ -1,7 +1,7 @@
 ---
 title: "Retail Access to Private Markets"
 collection: publications
-category: manuscripts
+category: wp
 permalink: /publications/retail-access
 excerpt: '**Abstract:** In recent years, asset managers have launched dozens of products that provide ordinary investors with access to private market investments. ...'
 date: 2025-08-01
