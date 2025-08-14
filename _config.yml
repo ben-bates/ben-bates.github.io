@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=sF0ZATUAAAAJ&hl=en&oi=sra" # URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ben-bates2248" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
